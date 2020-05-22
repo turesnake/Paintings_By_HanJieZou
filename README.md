@@ -31,3 +31,11 @@ I've been in the business illustration and game concept design industry for five
 
 ![008](Docs/se0621-2-2line4t-1red2-2c.jpg)
 
+
+# License
+all copyright © 2020 by hanjie zou
+
+## Contact
+*   E-mail: [turesnake@icloud.com](mailto:turesnake@icloud.com)
+*   QQ: 651700603
+*   WeChat：turesnake
